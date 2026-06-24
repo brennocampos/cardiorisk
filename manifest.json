@@ -1,0 +1,26 @@
+{
+  "name": "CardioRisk Perioperatório",
+  "short_name": "CardioRisk",
+  "description": "Avaliação de risco cardiovascular perioperatório — Hospital São Leopoldo Mandic",
+  "start_url": "/cardiorisk/",
+  "scope": "/cardiorisk/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#2D326A",
+  "theme_color": "#2D326A",
+  "lang": "pt-BR",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
